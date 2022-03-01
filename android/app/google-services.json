@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "650971509124",
+    "project_id": "organic-80ceb",
+    "storage_bucket": "organic-80ceb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650971509124:android:132eff390677bb431dedd1",
+        "android_client_info": {
+          "package_name": "com.organic.sabzavotlarimiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650971509124-s95ik7ita3037i8d7d8oq2vukvbsqvej.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.organic.sabzavotlarimiz",
+            "certificate_hash": "6c79dd24046533599b45763a5c2c5d7bbf78b133"
+          }
+        },
+        {
+          "client_id": "650971509124-50cat274qcrrcm5m5iut8g27hpru0aoo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHanc1ieTZYDmtrMyAZU2WJWglyopiDhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650971509124-50cat274qcrrcm5m5iut8g27hpru0aoo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
